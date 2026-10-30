@@ -1,0 +1,218 @@
+{
+  "version": 1,
+  "weekOf": "2026-10-27",
+  "generatedAt": "2026-10-30",
+  "demo": true,
+  "summaryZh": "本周 SEA 站内：美妆小样与手机配件搜索热度上行；TTS 短视频带货仍以家居收纳与运动护具为主。季节性：雨季相关（防潮/雨具）在 MY/ID 抬头。",
+  "summaryEn": "This week in SEA: beauty samples and phone accessories trending on search; TTS still led by home storage and sports supports. Seasonal: moisture/rain gear rising in MY/ID.",
+  "trends": [
+    {
+      "id": "t-beauty-sample",
+      "rank": 1,
+      "platform": "Shopee",
+      "markets": ["MY", "SG", "TH"],
+      "titleZh": "美妆小样 / 旅行装套装",
+      "titleEn": "Beauty samples / travel kits",
+      "signalZh": "搜索+加购双升，客单中等、复购故事好讲",
+      "signalEn": "Search + ATC up; mid AOV with easy repurchase story",
+      "heat": 92,
+      "change": "+18%"
+    },
+    {
+      "id": "t-phone-cable",
+      "rank": 2,
+      "platform": "Shopee",
+      "markets": ["ID", "PH", "VN"],
+      "titleZh": "快充线 / GaN 充电器",
+      "titleEn": "Fast-charge cables / GaN chargers",
+      "signalZh": "配件类目竞争加剧，拼详情图与本地仓",
+      "signalEn": "Accessory competition up — win on PDP + local warehouse",
+      "heat": 88,
+      "change": "+12%"
+    },
+    {
+      "id": "t-storage",
+      "rank": 3,
+      "platform": "TikTok Shop",
+      "markets": ["MY", "TH", "VN"],
+      "titleZh": "桌面/厨房收纳",
+      "titleEn": "Desk & kitchen storage",
+      "signalZh": "短视频演示转化强，注意同质化跟卖",
+      "signalEn": "Demo videos convert; watch copycat saturation",
+      "heat": 85,
+      "change": "+9%"
+    },
+    {
+      "id": "t-knee",
+      "rank": 4,
+      "platform": "TikTok Shop",
+      "markets": ["PH", "ID", "MY"],
+      "titleZh": "运动护膝 / 护腕",
+      "titleEn": "Knee / wrist sports supports",
+      "signalZh": "健身话题带动，尺码表与材质说明是关键",
+      "signalEn": "Fitness content lift; size chart & materials matter",
+      "heat": 81,
+      "change": "+15%"
+    },
+    {
+      "id": "t-rain",
+      "rank": 5,
+      "platform": "Shopee",
+      "markets": ["MY", "ID"],
+      "titleZh": "防潮盒 / 雨伞雨衣",
+      "titleEn": "Dehumidifiers / rain gear",
+      "signalZh": "雨季脉冲需求，备货别过深",
+      "signalEn": "Rainy-season pulse — avoid deep overstock",
+      "heat": 76,
+      "change": "+22%"
+    },
+    {
+      "id": "t-skincare-men",
+      "rank": 6,
+      "platform": "TikTok Shop",
+      "markets": ["SG", "MY", "TH"],
+      "titleZh": "男士控油护肤",
+      "titleEn": "Men's oil-control skincare",
+      "signalZh": "KOL 测评驱动，注意成分合规标示",
+      "signalEn": "KOL reviews drive demand; watch ingredient compliance",
+      "heat": 74,
+      "change": "+7%"
+    },
+    {
+      "id": "t-pet",
+      "rank": 7,
+      "platform": "Shopee",
+      "markets": ["TH", "VN", "PH"],
+      "titleZh": "宠物清洁湿巾",
+      "titleEn": "Pet cleaning wipes",
+      "signalZh": "消耗品复购稳，物流轻小件友好",
+      "signalEn": "Consumable repurchase; light-parcel friendly",
+      "heat": 70,
+      "change": "+5%"
+    },
+    {
+      "id": "t-led",
+      "rank": 8,
+      "platform": "TikTok Shop",
+      "markets": ["ID", "PH"],
+      "titleZh": "氛围灯 / LED 灯带",
+      "titleEn": "Mood lights / LED strips",
+      "signalZh": "视觉内容好做，电压规格要分市场",
+      "signalEn": "Great visual content; voltage specs differ by market",
+      "heat": 68,
+      "change": "+4%"
+    }
+  ],
+  "hotProducts": [
+    {
+      "id": "p1",
+      "skuHint": "travel-skincare-5pc",
+      "titleZh": "5件套旅行护肤瓶",
+      "titleEn": "5pc travel skincare bottle set",
+      "platform": "Shopee",
+      "markets": ["MY", "SG"],
+      "priceBand": "MYR 12–25",
+      "whyZh": "轻小件+套装感，适配美妆趋势",
+      "whyEn": "Light kit fits beauty-sample trend",
+      "riskZh": "同质化严重，靠包装差异化",
+      "riskEn": "Saturated — differentiate packaging"
+    },
+    {
+      "id": "p2",
+      "skuHint": "gan-33w",
+      "titleZh": "33W GaN 双口充",
+      "titleEn": "33W dual-port GaN charger",
+      "platform": "Shopee",
+      "markets": ["ID", "VN"],
+      "priceBand": "IDR 80k–150k",
+      "whyZh": "快充刚需，证书与安全文案要齐",
+      "whyEn": "Fast-charge demand; certifications required",
+      "riskZh": "低价劣质投诉高",
+      "riskEn": "Cheap quality complaints"
+    },
+    {
+      "id": "p3",
+      "skuHint": "acrylic-organizer",
+      "titleZh": "亚克力化妆品收纳",
+      "titleEn": "Acrylic makeup organizer",
+      "platform": "TikTok Shop",
+      "markets": ["TH", "MY"],
+      "priceBand": "THB 89–199",
+      "whyZh": "演示视频转化好",
+      "whyEn": "Demo video converts well",
+      "riskZh": "破损率，需加固包装",
+      "riskEn": "Breakage — reinforce packing"
+    },
+    {
+      "id": "p4",
+      "skuHint": "knee-brace",
+      "titleZh": "加压运动护膝",
+      "titleEn": "Compression knee brace",
+      "platform": "TikTok Shop",
+      "markets": ["PH", "ID"],
+      "priceBand": "PHP 149–299",
+      "whyZh": "运动话题绑定容易",
+      "whyEn": "Easy sports-content tie-in",
+      "riskZh": "尺码退货",
+      "riskEn": "Size-related returns"
+    },
+    {
+      "id": "p5",
+      "skuHint": "moisture-absorber",
+      "titleZh": "可挂式除湿袋",
+      "titleEn": "Hanging moisture absorber",
+      "platform": "Shopee",
+      "markets": ["MY", "ID"],
+      "priceBand": "MYR 8–18",
+      "whyZh": "雨季脉冲",
+      "whyEn": "Rainy-season pulse",
+      "riskZh": "季节过后滞销",
+      "riskEn": "Post-season dead stock"
+    },
+    {
+      "id": "p6",
+      "skuHint": "men-oil-control",
+      "titleZh": "男士控油洁面乳",
+      "titleEn": "Men's oil-control cleanser",
+      "platform": "TikTok Shop",
+      "markets": ["SG", "MY"],
+      "priceBand": "SGD 9–19",
+      "whyZh": "测评内容易出片",
+      "whyEn": "Review content friendly",
+      "riskZh": "美妆合规与声称限制",
+      "riskEn": "Beauty claims compliance"
+    }
+  ],
+  "byMarket": {
+    "MY": {
+      "summaryZh": "美妆小样与收纳并强；雨季除湿开始起量。",
+      "summaryEn": "Beauty samples + storage strong; moisture absorbers rising.",
+      "topTrendIds": ["t-beauty-sample", "t-storage", "t-rain"]
+    },
+    "SG": {
+      "summaryZh": "客单偏高，男士护肤与旅行装更吃品牌感。",
+      "summaryEn": "Higher AOV; men's skincare & travel kits favor branding.",
+      "topTrendIds": ["t-beauty-sample", "t-skincare-men"]
+    },
+    "TH": {
+      "summaryZh": "TTS 收纳演示好转化；宠物消耗品稳定。",
+      "summaryEn": "TTS storage demos convert; pet consumables steady.",
+      "topTrendIds": ["t-storage", "t-pet", "t-beauty-sample"]
+    },
+    "ID": {
+      "summaryZh": "手机配件量大；护具与灯带靠短视频。",
+      "summaryEn": "Phone accessories volume; braces & LEDs via short video.",
+      "topTrendIds": ["t-phone-cable", "t-knee", "t-led"]
+    },
+    "VN": {
+      "summaryZh": "充电器与收纳并行；注意本地仓时效。",
+      "summaryEn": "Chargers + storage; local warehouse SLA matters.",
+      "topTrendIds": ["t-phone-cable", "t-storage", "t-pet"]
+    },
+    "PH": {
+      "summaryZh": "护具与灯带热；配件价格带要本地化。",
+      "summaryEn": "Braces & LEDs hot; localize accessory price bands.",
+      "topTrendIds": ["t-knee", "t-led", "t-phone-cable"]
+    }
+  }
+}
