@@ -8,5 +8,5 @@ export const siteConfig = {
   sponsorPricingNoteEn: "Sponsor pricing TBD. Email to discuss markets and tiers.",
   demoNoticeZh: "以下为演示周报数据（demo），非实时平台接口结果。",
   demoNoticeEn: "Demo weekly digest data — not live platform API results.",
-  lastDataRefresh: "2026-10-30",
+  lastDataRefresh: "2026-11-02",
 };
